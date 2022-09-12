@@ -1,0 +1,23 @@
+{
+  "name": "provejo-nlw",
+  "version": "1.0.0",
+  "description": "Projeto da NLW eSports - Next Level Weak - Rocketseat",
+  "main": "src/main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielGarcia190/provejo-NLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielGarcia190/provejo-NLW/issues"
+  },
+  "homepage": "https://github.com/GabrielGarcia190/provejo-NLW#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
